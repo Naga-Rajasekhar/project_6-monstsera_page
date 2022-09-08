@@ -4,11 +4,13 @@
 >
 > By Naga Rajasekhar
 
-You can find the live deployment link of this web page here --> **[Live Deployment Link](https://monsterahome.netlify.app/)**
+You can find the live deployment link of this web page below
+
+# [Live Deployment Link](https://monsterahome.netlify.app/)
+
 <br/>
 <br/>
-<br/>
-<br/>
+
 ![Preview](./preview.png)
 
 <br/>
@@ -16,5 +18,11 @@ You can find the live deployment link of this web page here --> **[Live Deployme
 ### Learnings from completing this project
 
 1. Gained knowledge about postions and its properties<br/>
-2. Learnt about z-index
+2. Learnt positioning images
 3. Gained knowledge about padding, margin, colors, border and their values
+
+<br>
+
+<hr>
+
+# It took around 6 hours to complete this project
